@@ -1,2 +1,4 @@
 # 3DprintingSBU
-Content for 3Dprinting class at techshop
+
+*Files to Print*
+XYZ cube: https://www.thingiverse.com/thing:1278865
