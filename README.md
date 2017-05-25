@@ -2,7 +2,7 @@
 
 
 ---
-*Files to Print*  
+**Files to Print**  
 XYZ cube: https://www.thingiverse.com/thing:1278865  
 Bracelet: https://www.thingiverse.com/thing:13505  
 Bugz etc: https://www.thingiverse.com/thing:1904654  
